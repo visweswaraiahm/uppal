@@ -1,4 +1,7 @@
 busstop
 auto stand
 stadium
-etc
+temples
+schools
+offices
+colleges
